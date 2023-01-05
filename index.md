@@ -5,7 +5,7 @@
 ### Data Analytics Projects 
 
 Cyclistic Bike Share Analysis | Google Data Analytics Capstone Project
-<img src="images/cyclistic_bike_share.jpg?raw=true"/>
+<img src="cyclistic_bike_share.jpeg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
